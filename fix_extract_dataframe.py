@@ -23,7 +23,7 @@ def read_json(json_file: str)->list:
 
 class TweetDfExtractor:
     """
-    this function will parse tweets json into a pandas dataframe
+    this function will parse tweets json into a pandas dataframes
     
     Return
     ------
