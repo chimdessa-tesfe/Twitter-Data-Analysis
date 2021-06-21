@@ -26,7 +26,7 @@ class Clean_Tweets:
         return df
     def convert_to_datetime(self, df:pd.DataFrame)->pd.DataFrame:
         """
-        convert column to datetime
+        convert column to datetimen
         """
         ----
         
