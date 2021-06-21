@@ -2,11 +2,13 @@ import json
 import pandas as pd
 from textblob import TextBlob
 
-def read_json(json_file: str)->list:
+tweets=pd.('C:\Users\AB\Desktop/data.json)->list:
     """
     json file reader to open and read json files into a list
     Args:
     -----
+    my json file on desktop renamed as data.json
+    ------
     json_file: str - path of a json file
     
     Returns
