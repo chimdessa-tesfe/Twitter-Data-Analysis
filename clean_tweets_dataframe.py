@@ -18,7 +18,7 @@ class Clean_Tweets:
         return df
     def drop_duplicate(self, df:pd.DataFrame)->pd.DataFrame:
         """
-        drop duplicate rows
+        drop duplicate rows edit
         """
         
         ---
